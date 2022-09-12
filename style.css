@@ -1,0 +1,162 @@
+*{
+	margin:0;
+	padding: o;
+
+}
+.deco{
+	color:yellow;
+	background-color: blue;
+	position: fixed;
+	width: 100%;
+	height: 17px;
+	text-shadow: 0px 0px 7px #FFFFFF;
+
+}
+body{
+	
+}
+.site{
+	
+
+}
+nav{
+	background-color: green;
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	height: 60px;
+	width: 100%;
+
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;  
+	border-bottom:5px solid black;	
+}
+ 
+
+	.Apropos h1{
+		color: red;
+		font-size: 30px;
+		text-shadow: 0px 0px 7px #FFFFFF;
+	}
+	.Apropos p{
+		font-size: 25px;
+		
+	}
+	.mesprojets h1{
+		color:red;
+		font-size: 30px;
+		text-shadow: 0px 0px 7px #FFFFFF;
+
+	}
+	.mesprojets h3{
+		color: white;
+		border: 7px yellow solid;
+		margin: 15px;
+		border-radius: 5px;
+		font-size: 20px;
+		
+	}
+
+
+.nav a{
+	font-size:15px;
+	padding-bottom: 3px;
+	text-decoration: none;
+	color: white;
+	padding:4px;
+	margin: 0px;
+	margin-top:40px;
+	text-shadow: 0px 0px 7px #FFFFFF;
+}
+.nav a:hover{
+	color:yellow;
+	border-bottom: 3px solid blue;
+}
+.cv h2{
+	color: white;
+		border: 7px green solid;
+		margin: 15px;
+		border-radius: 5px;
+		font-size: 17px;
+		text-shadow: 0px 0px 7px #FFFFFF;
+	}
+	.cv a{
+		color: red;
+		font-size: 20px;
+	}
+	.contacts{
+		background-color: grey;
+		height: 200px;
+
+	}
+	.contacts h1{
+		color: red;
+		font-size: 30px;
+		text-shadow: 0px 0px 7px #FFFFFF;
+
+	}
+	.contacts p{
+		text-align: center;
+		font-size: 20px;
+		margin-top: 20px;
+		color: white;
+	}
+
+
+section{
+	
+	margin-bottom: 20px;
+	background: black;
+	color: white;
+	margin-top: 5px;
+	padding:0px;
+	}
+
+.section img{
+	height: 200px;
+	width: :200px;
+	display: block;
+	margin:auto;
+	margin-bottom: 20px;
+	align-items: center;
+}
+.section p{
+	text-align: center
+	padding-bottom:300px;
+	font-size: 30px;
+
+}
+ .mesprojets{
+ 	background-color:#FF00FF;
+ }
+ footer{
+ 	position: fixed;
+ 	left: 0;
+ 	bottom: 0;
+ 	width: 100%;
+ 	background-color: green;
+ 	height: 30px;
+ 	text-shadow: 0px 0px 7px #FFFFFF;
+ 	
+ }
+
+
+ @media only screen and (max-width: 600px){
+	header {
+	width: 
+	color:yellow;
+	}
+}
+.citation{
+	text-align: right;
+	margin-top: -15px;
+}
+.icone img{
+	align-items: center;
+	width: 50px;
+	height: 50px;
+	padding: 5px;
+	margin-left: 20px;
+	margin-top: 20px;
